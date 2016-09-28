@@ -1,0 +1,21 @@
+.nav {
+   position: absolute;
+   left: 0;
+   width: 20%;
+   box-sizing: border-box;
+}
+
+section {
+   margin-left:20%;
+   box-sizing: border-box;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+body {
+   margin-bottom: 120px;
+}
