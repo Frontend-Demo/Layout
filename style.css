@@ -1,18 +1,22 @@
 .nav {
-   box-sizing: border-box;
-   float: left;
    width: 20%;
+   display: inline-block;
+   vertical-align: top;
 }
 
 section {
-   margin-left:20%;
-   box-sizing: border-box;
+}
+
+.column {
+   width: 79%;
+   display: inline-block;
+   vertical-align: top;
 }
 
 .footer {
-	position: fixed;
-	bottom: 0;
-	width: 100%;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 body {
