@@ -1,16 +1,16 @@
+.container {
+	display: flex;
+}
+
 .nav {
-   width: 20%;
-   display: inline-block;
-   vertical-align: top;
+   width: 200px;
 }
 
 section {
 }
 
 .column {
-   width: 79%;
-   display: inline-block;
-   vertical-align: top;
+   flex: 1;
 }
 
 .footer {
@@ -22,3 +22,4 @@ section {
 body {
    margin-bottom: 120px;
 }
+
