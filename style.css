@@ -1,8 +1,7 @@
 .nav {
-   position: absolute;
-   left: 0;
-   width: 20%;
    box-sizing: border-box;
+   float: left;
+   width: 20%;
 }
 
 section {
